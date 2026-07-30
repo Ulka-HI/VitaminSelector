@@ -1,0 +1,7 @@
+meta:
+  environment: dotnet
+  toolchain: net8
+build:
+  project: VitaminSelector.csproj
+run:
+  artifact: VitaminSelector
